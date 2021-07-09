@@ -1,7 +1,6 @@
 import './componentes/css/styles.css';
 import { BrowserRouter as Router,Route,Switch} from "react-router-dom";
 import 'bootstrap';
-import '@fortawesome/fontawesome-free/css/all.min.css'
 import ContenerdorTodos from './componentes/ContenerdorTodos';
 import ContenerdorVideos from './componentes/ContenerdorVideos';
 

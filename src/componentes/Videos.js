@@ -4,7 +4,7 @@ import 'aos/dist/aos.css';
 import monta from './assets/img/videos/layered-peaks.svg';
 import './css/videosStyle.css';
 import PrimerCambio from './assets/img/videos/rojoclaro-ablanco.svg'
-import pdf from './PDF/PdfElectronica.pdf'
+
 
 
 AOS.init({
