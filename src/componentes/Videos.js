@@ -29,7 +29,7 @@ const Videos = () => {
 				<div className="row row-cols-1 row-cols-md-2 g-4">
 				<div className="col" >
 					<div className="card">
-					<iframe className="card-img-top" width="560" height="515" src="https://www.youtube.com/embed/ZMKKO8LH4jw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					<iframe className="card-img-top" width="560" height="515" src="https://www.youtube.com/embed/ZMKKO8LH4jw" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 					<div className="card-body">
 						<h5 className="card-title">Electrónica Industrial Vocacional Monseñor Sanabria</h5>
 					</div>
@@ -37,7 +37,7 @@ const Videos = () => {
 				</div>
 				<div className="col">
 					<div className="card">
-						<iframe className="card-img-top" width="560" height="515" src="https://www.youtube.com/embed/10MKMu5P5kM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						<iframe className="card-img-top" width="560" height="515" src="https://www.youtube.com/embed/10MKMu5P5kM" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 					<div className="card-body">
 						<h5 className="card-title">Electrónica Industrial Vocacional Monseñor Sanabria</h5>
 					</div>
@@ -46,7 +46,7 @@ const Videos = () => {
 				</div>
 				<div className="col">
 					<div className="card">
-					<iframe className="card-img-top"  width="560" height="515" src="https://www.youtube.com/embed/hFNUD4sdgTo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					<iframe className="card-img-top"  width="560" height="515" src="https://www.youtube.com/embed/hFNUD4sdgTo" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 					<div className="card-body">
 						<h5 className="card-title">Electrónica Industrial Vocacional Monseñor Sanabria</h5>
 					</div>
@@ -54,7 +54,7 @@ const Videos = () => {
 				</div>
 				<div className="col">
 					<div className="card">
-					<iframe className="card-img-top"  width="560" height="515" src="https://www.youtube.com/embed/zdB6Q2oQrlA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					<iframe className="card-img-top"  width="560" height="515" src="https://www.youtube.com/embed/zdB6Q2oQrlA" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 					<div className="card-body">
 						<h5 className="card-title">Electrónica Industrial Vocacional Monseñor Sanabria</h5>
 					</div>
