@@ -1,6 +1,6 @@
 import React from 'react';
 import navBarLogo from './assets/img/logo_voca.svg'
-import {BrowserRouter as Router,Route,Switch,Link} from "react-router-dom";
+import {BrowserRouter as Switch,Link} from "react-router-dom";
 import AOS from 'aos';
 
 AOS.init({
@@ -10,6 +10,7 @@ const Menu = () => {
     return (
             <nav className="navbar navbar-expand-lg  fixed-top" id="mainNav">
             <div className="container" data-aos="fade-in">
+                <Switch></Switch>
                 <Link to="">
                     <p className="navbar-brand" >
                         <img src={navBarLogo} alt="..." id="logo-tamano" className="ms-auto" style={{ height:"55px"}}></img>

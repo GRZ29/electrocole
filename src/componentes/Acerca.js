@@ -1,8 +1,4 @@
 import React from 'react';
-import info1 from './assets/img/about/uncertainty-relation-2434282_640.jpg';
-import info2 from './assets/img/about/2.jpg';
-import info3 from './assets/img/about/3.jpg';
-import info4 from './assets/img/about/4.jpg';
 
 const Acerca = () => {
     return (
