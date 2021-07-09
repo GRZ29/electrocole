@@ -18,7 +18,7 @@ const Poppup = () => {
                         <div className="row justify-content-center">
                             <div className="col-lg-8">
                                 <div className="modal-body">
-                                    <h2 className="text-uppercase">Resultados del aprendizaje</h2>
+                                    <h3 className="text-uppercase">Semiconductores</h3>
                                     <br/><br/>
                                     <img className="img-fluid d-block mx-auto" src={por1} alt="..." />
                                     <p>Determina el funcionamiento de diodos 
@@ -48,7 +48,7 @@ const Poppup = () => {
                         <div className="row justify-content-center">
                             <div className="col-lg-8">
                                 <div className="modal-body">
-                                    <h2 className="text-uppercase">Programación multiparadigma para dispositivos electrónicos IIOT</h2>
+                                    <h3 className="text-uppercase">Programación multiparadigma para dispositivos electrónicos IIOT</h3>
                                     <br/><br/>
                                     <img className="img-fluid d-block mx-auto" src={por2} alt="..." />
                                     <p>Utilizar la sintaxis del lenguaje de 
@@ -75,7 +75,7 @@ const Poppup = () => {
                         <div className="row justify-content-center">
                             <div className="col-lg-8">
                                 <div className="modal-body">
-                                    <h2 className="text-uppercase">Fuentes de alimentación</h2>
+                                    <h3 className="text-uppercase">Fuentes de alimentación</h3>
                                     <br/><br/>
                                     <img className="img-fluid d-block mx-auto" src={por3} alt="..." />
                                     <p>Aplicar procedimientos de mantenimiento 
@@ -101,7 +101,7 @@ const Poppup = () => {
                         <div className="row justify-content-center">
                             <div className="col-lg-8">
                                 <div className="modal-body">
-                                    <h2 className="text-uppercase">Enrutamiento y conmutación de Redes</h2>
+                                    <h3 className="text-uppercase">Enrutamiento y conmutación de Redes</h3>
                                     <br/><br/>
                                     <img className="img-fluid d-block mx-auto" src={por4} alt="..." />
                                     <p>Implementar DHCPv4 y DHCPv6 para 
@@ -126,7 +126,7 @@ const Poppup = () => {
                         <div className="row justify-content-center">
                             <div className="col-lg-8">
                                 <div className="modal-body">
-                                    <h2 className="text-uppercase">Mecatrónica</h2>
+                                    <h3 className="text-uppercase">Mecatrónica</h3>
                                     <br/><br/>
                                     <img className="img-fluid d-block mx-auto" src={por5} alt="..." />
                                     <p>Demostrar las características de los 
@@ -153,7 +153,7 @@ const Poppup = () => {
                         <div className="row justify-content-center">
                             <div className="col-lg-8">
                                 <div className="modal-body">
-                                    <h2 className="text-uppercase">Administración del Mantenimiento</h2>
+                                    <h3 className="text-uppercase">Administración del Mantenimiento</h3>
                                     <br/><br/>
                                     <img className="img-fluid d-block mx-auto" src={por6} alt="..." />
                                     <p>Ejecuta los procesos de 
