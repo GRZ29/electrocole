@@ -1,5 +1,5 @@
 import React from 'react';
-import '@fortawesome/fontawesome-free/css/all.min.css'
+import '@fortawesome/fontawesome-free/css/all.css'
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
