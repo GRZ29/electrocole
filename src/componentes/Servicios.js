@@ -11,7 +11,7 @@ AOS.init({
 const Servicios = () => {
     return (
         <div>
-            <section className="page-section" id="services" style={{backgroundColor:"#d7d8d6"}}>
+            <section className="page-section" id="contenidos" style={{backgroundColor:"#d7d8d6"}}>
             <div className="container">
                 <div className="text-center">
                     <h2 className="section-heading text-uppercase">Contenidos</h2>

@@ -7,7 +7,7 @@ const Head = () => {
             <div className="container" id="home">
                 <div className="masthead-subheading">Colegio Vocacional Monseñor Sanabria</div>
                 <div className="masthead-heading text-uppercase">Conoce mas sobre Electrónica Industrial</div>
-                <a className="btn btn-primary btn-xl text-uppercase" href="#services">Ver mas</a>
+                <a className="btn btn-primary btn-xl text-uppercase" href="#contenidos">Ver mas</a>
             </div>
         </header>
         </div>
