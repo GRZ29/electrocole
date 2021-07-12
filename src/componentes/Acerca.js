@@ -14,7 +14,7 @@ const Acerca = () => {
                 </div>
                 <ul className="timeline">
                     <li>
-                        <div className="timeline-image"style={{}}><h4>Tercer <br/>año</h4></div>
+                        <div className="timeline-image"style={{}}><h4>Cuarto <br/>año</h4></div>
                         <div className="timeline-panel">
                             <div className="timeline-heading">
                                 <h4 className="subheading">Porgrama de Décimo</h4>
@@ -25,7 +25,7 @@ Electronics</p></div>
                         </div>
                     </li>
                     <li className="timeline-inverted">
-                        <div className="timeline-image"><h4>Cuarto <br/>año</h4></div>
+                        <div className="timeline-image"><h4>Quinto <br/>año</h4></div>
                         <div className="timeline-panel">
                             <div className="timeline-heading">
                                 <h4 className="subheading">Programa de Undécimo</h4>
@@ -36,7 +36,7 @@ Electronics<p className="text-muted"></p></div>
                         </div>
                     </li>
                     <li>
-                        <div className="timeline-image"><h4>Quinto <br/>año</h4></div>
+                        <div className="timeline-image"><h4>Sexto <br/>año</h4></div>
                         <div className="timeline-panel">
                             <div className="timeline-heading">
                                 <h4 className="subheading">Programa de Duodécimo</h4>
