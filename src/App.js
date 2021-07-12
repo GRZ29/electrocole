@@ -3,6 +3,7 @@ import { BrowserRouter as Router,Route,Switch} from "react-router-dom";
 import 'bootstrap';
 import ContenerdorTodos from './componentes/ContenerdorTodos';
 import ContenerdorVideos from './componentes/ContenerdorVideos';
+import { useEffect } from 'react';
 
 function App() {
 
@@ -31,6 +32,9 @@ if (mainNav) {
 
 };
 
+useEffect(()=>{
+  document.title = "Electrovoca"
+},[])
   
   return (
     <Router>

@@ -1,7 +1,6 @@
 import React from 'react';
-import team1 from './assets/img/team/jose-vaisman-e1529942487664.jpg';
-import team2 from './assets/img/team/2.jpg';
-import team3 from './assets/img/team/3.jpg';
+import team1 from './assets/img/team/Jose Antonio Arce.png';
+import team2 from './assets/img/team/Danilo Rojas Chanto (1) (1).png';
 
 const Team = () => {
     return (
@@ -14,32 +13,22 @@ const Team = () => {
                     <h2 className="section-heading text-uppercase">Conoce a unos nuestros profesores</h2>
                     <h3 className="section-subheading text-muted"> <br/></h3>
                 </div>
-                <div className="row">
+                <div className="row justify-content-center">
                     <div className="col-lg-4">
                         <div className="team-member">
-                            <img className="mx-auto rounded-circle" src={team1} alt="..." />
-                            <h4>Jose Arce</h4>
+                            <img className="mx-auto rounded-circle" src={team1} alt="..."style={{width:"300px", height:"300px"}} />
+                            <h4>José Antonio Arce Flores</h4>
                             <p className="text-muted">Profesor de Electronica Industrial</p>
-                            <a className="btn btn-dark btn-social mx-2" href="#!"><i className="fab fa-facebook-f"></i></a>
-                            <a className="btn btn-dark btn-social mx-2" href="#!"><i className="fab fa-linkedin-in"></i></a>
+                            <a className="btn btn-dark btn-social mx-2" href="https://www.facebook.com/jaarcef"><i className="fab fa-facebook-f"></i></a>
                         </div>
                     </div>
+<br/><br/>
                     <div className="col-lg-4">
                         <div className="team-member">
-                            <img className="mx-auto rounded-circle" src={team2} alt="..." />
-                            <h4>Diana Petersen</h4>
+                            <img className="mx-auto rounded-circle" src={team2} alt="..." style={{width:"300px", height:"300px"}}/>
+                            <h4>Danilo Rojas Chanto</h4>
                             <p className="text-muted">Profesor de Electronica Industrial</p>
-                            <a className="btn btn-dark btn-social mx-2" href="#!"><i className="fab fa-facebook-f"></i></a>
-                            <a className="btn btn-dark btn-social mx-2" href="#!"><i className="fab fa-linkedin-in"></i></a>
-                        </div>
-                    </div>
-                    <div className="col-lg-4">
-                        <div className="team-member">
-                            <img className="mx-auto rounded-circle" src={team3} alt="..." />
-                            <h4>Larry Parker</h4>
-                            <p className="text-muted">Profesor de Electronica Industrial</p>
-                            <a className="btn btn-dark btn-social mx-2" href="#!"><i className="fab fa-facebook-f"></i></a>
-                            <a className="btn btn-dark btn-social mx-2" href="#!"><i className="fab fa-linkedin-in"></i></a>
+                            <a className="btn btn-dark btn-social mx-2" href="https://www.facebook.com/rojaschanto"><i className="fab fa-facebook-f"></i></a>
                         </div>
                     </div>
                 </div>

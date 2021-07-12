@@ -13,7 +13,7 @@ const Menu = () => {
                 <Switch></Switch>
                 <Link to="">
                     <p className="navbar-brand" >
-                        <img src={navBarLogo} alt="..." id="logo-tamano" className="ms-auto" style={{ height:"55px"}}></img>
+                        <img src={navBarLogo} alt="..." id="logo-tamano" className="ms-auto" style={{ height:"55px", marginTop:"10px"}}></img>
                     </p>
                 </Link>
                 <button  data-aos="fade-in"  className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
