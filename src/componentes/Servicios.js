@@ -24,7 +24,7 @@ const Servicios = () => {
                             <i className="fas fa-vials fa-stack-1x " style={{color:"#d7d8d6"}}></i>
                         </span>
                         <h4 className="my-3">Salubridad</h4>
-                        <p className="text-muted">Identificar los factores de riesgo en un taller ó laboratorio de Electrónica. onocer la relación que se da entre saludtrabajo y medio ambiente.</p>
+                        <p className="text-muted">Identificar los factores de riesgo en un taller ó laboratorio de Electrónica. Conocer la relación que se da entre salud trabajo y medio ambiente.</p>
                     </div>
                     <div className="col-md-4" data-aos="fade-right">
                         <span className="fa-stack fa-4x">

@@ -21,9 +21,9 @@ const Videos = () => {
 				<img id="monta" src={monta}  alt='like'/>
 				<h2  id="h2Texto3" style={{zIndex:102, marginTop:555}}>Te gustaria saber mas sobre nosostros?</h2>
 			</div>
+			<div id="estrellas" style={{margin:0}}></div>
 			<img id="subsuelo" src={PrimerCambio} alt="like"></img>
-			
-			<div style={{padding:35, backgroundColor:"#d7d8d6"}}>
+			<div id="" style={{padding:35, backgroundColor:"#d7d8d6",margin:0}}>
 				<h2 style={{textAlign:"center"}}>CONOCE SOBRE NUESTROS AREAS Y ESTUDIANTES</h2>
 				<br/><br/><br/>
 				<div className="row row-cols-1 row-cols-md-2 g-4">
