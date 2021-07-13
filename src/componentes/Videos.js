@@ -29,7 +29,7 @@ const Videos = () => {
 				<div className="row row-cols-1 row-cols-md-2 g-4">
 				<div className="col" >
 					<div className="card">
-					<iframe className="card-img-top" width="560" height="515" src="https://www.youtube.com/embed/ZMKKO8LH4jw" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+					<iframe className="card-img-top" width="560" height="515" src="https://www.youtube.com/embed/ILNWBx6gSLA" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 					<div className="card-body">
 						<h5 className="card-title">Electrónica Industrial Vocacional Monseñor Sanabria</h5>
 					</div>
@@ -37,16 +37,31 @@ const Videos = () => {
 				</div>
 				<div className="col">
 					<div className="card">
-						<iframe className="card-img-top" width="560" height="515" src="https://www.youtube.com/embed/10MKMu5P5kM" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+						<iframe className="card-img-top" width="560" height="515" src="https://www.youtube.com/embed/prE6yrDYjic" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 					<div className="card-body">
 						<h5 className="card-title">Electrónica Industrial Vocacional Monseñor Sanabria</h5>
 					</div>
 					</div>
-					<br/><br/><br/>
 				</div>
 				<div className="col">
 					<div className="card">
-					<iframe className="card-img-top"  width="560" height="515" src="https://www.youtube.com/embed/hFNUD4sdgTo" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+					<iframe className="card-img-top"  width="560" height="515" src="https://www.youtube.com/embed/r8zrSu1Va1E" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+					<div className="card-body">
+						<h5 className="card-title">Electrónica Industrial Vocacional Monseñor Sanabria</h5>
+					</div>
+					</div>
+				</div>
+				<div className="col">
+					<div className="card">
+					<iframe className="card-img-top"  width="560" height="515" src="https://www.youtube.com/embed/K-7lh8UW7so" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+					<div className="card-body">
+						<h5 className="card-title">Electrónica Industrial Vocacional Monseñor Sanabria</h5>
+					</div>
+					</div>
+				</div>
+				<div className="col">
+					<div className="card">
+					<iframe className="card-img-top"  width="560" height="515" src="https://www.youtube.com/embed/qsK5XvgUcXs" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 					<div className="card-body">
 						<h5 className="card-title">Electrónica Industrial Vocacional Monseñor Sanabria</h5>
 					</div>
