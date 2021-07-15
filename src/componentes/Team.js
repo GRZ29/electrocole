@@ -18,7 +18,7 @@ const Team = () => {
                         <div className="team-member">
                             <img className="mx-auto rounded-circle" src={team1} alt="..."style={{width:"300px", height:"300px"}} />
                             <h4>José Antonio Arce Flores</h4>
-                            <p className="text-muted">Profesor de Electronica Industrial</p>
+                            <p className="text-muted">Profesor de Electrónica Industrial</p>
                             <a className="btn btn-dark btn-social mx-2" href="https://www.facebook.com/jaarcef"><i className="fab fa-facebook-f"></i></a>
                         </div>
                     </div>
@@ -27,7 +27,7 @@ const Team = () => {
                         <div className="team-member">
                             <img className="mx-auto rounded-circle" src={team2} alt="..." style={{width:"300px", height:"300px"}}/>
                             <h4>Danilo Rojas Chanto</h4>
-                            <p className="text-muted">Profesor de Electronica Industrial</p>
+                            <p className="text-muted">Profesor de Electrónica Industrial</p>
                             <a className="btn btn-dark btn-social mx-2" href="https://www.facebook.com/rojaschanto"><i className="fab fa-facebook-f"></i></a>
                         </div>
                     </div>

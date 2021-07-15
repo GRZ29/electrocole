@@ -11,7 +11,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 :root {
-  --bs-blue: #0d6efd;
+  --bs-blue: #ffc800;
   --bs-indigo: #6610f2;
   --bs-purple: #6f42c1;
   --bs-pink: #d63384;
@@ -4271,7 +4271,7 @@ textarea.form-control-lg {
   background-color: #fff;
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
-  border-radius: 0.25rem;
+  border-radius: 2.25rem;
 }
 .card > hr {
   margin-right: 0;
@@ -7342,7 +7342,7 @@ textarea.form-control-lg {
 
 /* rtl:end:remove */
 .text-primary {
-  color: #8c232c !important;
+  color: #8C232C !important;
 }
 
 .text-secondary {
@@ -10983,7 +10983,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/Colegio.jpg");
+  background-image: url("../assets/img/Colegio2.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;

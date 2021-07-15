@@ -1,3 +1,10 @@
+.card-img-top{
+    border-radius: 2.25rem;
+}
+
+.carousel-inner{
+    border-radius: 2.25rem;
+}
 
 #estre{
     padding-top: 350px;

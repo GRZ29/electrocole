@@ -21,7 +21,7 @@ const Menu = () => {
                 </button> 
                 <div className="collapse navbar-collapse" id="navbarResponsive">
                     <ul className="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
-                        <Link to="" style={{textDecoration:"none"}}><li className="nav-item"><p className="nav-link"  style={{borderColor:"yellow", borderWidth:"medium"}}>Home</p></li></Link>
+                        <Link to="" style={{textDecoration:"none"}}><li className="nav-item"><p className="nav-link"  style={{borderColor:"yellow", borderWidth:"medium"}}>Inicio</p></li></Link>
                         <Link to="/videos" style={{textDecoration:"none"}}><li className="nav-item"><p className="nav-link"  style={{borderColor:"yellow", borderWidth:"medium"}}>Mas información</p></li></Link>
                     </ul>
                 </div>

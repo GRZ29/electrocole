@@ -17,7 +17,7 @@ const Acerca = () => {
                         <div className="timeline-image"style={{}}><h4>Cuarto <br/>año</h4></div>
                         <div className="timeline-panel">
                             <div className="timeline-heading">
-                                <h4 className="subheading">Porgrama de Décimo</h4>
+                                <h4 className="subheading">Programa de Décimo</h4>
                             </div>
                             <div className="timeline-body"><p className="text-muted">1.Tecnologías de información 
 aplicadas a Electrónica Industrial<br/> 2.Instalaciones eléctricas<br/> 3.Fundamentos de Electrónica <br/>4.English Oriented to Industrial 

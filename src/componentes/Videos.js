@@ -23,7 +23,7 @@ const Videos = () => {
 			</div>
 			<div id="estrellas" style={{margin:0}}></div>
 			<img id="subsuelo" src={PrimerCambio} alt="like"></img>
-			<div id="" style={{padding:35, backgroundColor:"#d7d8d6",margin:0}}>
+			<div  style={{padding:35, backgroundColor:"#d7d8d6",margin:0}}>
 				<h2 style={{textAlign:"center"}}>CONOCE SOBRE NUESTROS AREAS Y ESTUDIANTES</h2>
 				<br/><br/><br/>
 				<div className="row row-cols-1 row-cols-md-2 g-4">
@@ -59,7 +59,7 @@ const Videos = () => {
 					</div>
 					</div>
 				</div>
-				<div className="col">
+				{/* <div className="col">
 					<div className="card">
 					<iframe className="card-img-top"  width="560" height="515" src="https://www.youtube.com/embed/qsK5XvgUcXs" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 					<div className="card-body">
@@ -74,7 +74,7 @@ const Videos = () => {
 						<h5 className="card-title">Electrónica Industrial Vocacional Monseñor Sanabria</h5>
 					</div>
 					</div>
-				</div>
+				</div> */}
 				</div>
 			</div>
 		</div>
