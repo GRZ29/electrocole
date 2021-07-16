@@ -21,7 +21,7 @@ const Graduaciones = () => {
             <img id="subsuelo" src={Picos} alt="like"></img>
             <div style={{ padding: 35, backgroundColor: "#d7d8d6", margin: 0 }}>
                 {/* <AliceCarousel mouseTracking items={items} /> */}
-                <h1 style={{textAlign:"center", marginBottom:"45px", marginTop:"45px"}}>GENERACION 2021</h1>
+                <h1 style={{textAlign:"center", marginBottom:"45px", marginTop:"45px"}}>GENERACIONES 2021 - 2019</h1>
                 <div style={{textAlign:"center"}} className="row row-cols-1 row-cols-md-3 g-4">
                     <Gallery> 
                         <Item
@@ -54,11 +54,6 @@ const Graduaciones = () => {
                                     <img ref={ref} onClick={open} src={Prueba} alt="..." id="bordergeneracion"/>
                             )}
                         </Item>
-                    </Gallery>
-                </div>
-                <h1 style={{textAlign:"center", marginBottom:"45px", marginTop:"45px"}}>GENERACION 2020</h1>
-                <div className="row row-cols-1 row-cols-md-3 g-4">
-                    <Gallery>
                         <Item
                             original={Prueba2}
                             thumbnail={Prueba2}
@@ -76,7 +71,7 @@ const Graduaciones = () => {
                             height="724"
                         >
                             {({ ref, open }) => (
-                                <img ref={ref} onClick={open} src={Prueba3} alt="..." id="bordergeneracion"/>
+                                <img ref={ref} onClick={open} src={Prueba3} alt="..." id="bordergeneracion" />
                             )}
                         </Item>
                         <Item
@@ -86,42 +81,7 @@ const Graduaciones = () => {
                             height="724"
                         >
                             {({ ref, open }) => (
-                                <img ref={ref} onClick={open} src={Prueba} alt="..." id="bordergeneracion"/>
-                            )}
-                        </Item>
-                    </Gallery>
-                </div>
-                <h1 style={{textAlign:"center", marginBottom:"45px", marginTop:"45px"}}>GENERACION 2019</h1>
-                <div className="row row-cols-1 row-cols-md-3 g-4">
-                    <Gallery>
-                        <Item
-                            original={Prueba2}
-                            thumbnail={Prueba2}
-                            width="724"
-                            height="724"
-                        >
-                            {({ ref, open }) => (
-                                <img ref={ref} onClick={open} src={Prueba2} alt="..." id="bordergeneracion"/>
-                            )}
-                        </Item>
-                        <Item
-                            original={Prueba3}
-                            thumbnail={Prueba3}
-                            width="724"
-                            height="724"
-                        >
-                            {({ ref, open }) => (
-                                <img ref={ref} onClick={open} src={Prueba3} alt="..." id="bordergeneracion"/>
-                            )}
-                        </Item>
-                        <Item
-                            original={Prueba}
-                            thumbnail={Prueba}
-                            width="724"
-                            height="724"
-                        >
-                            {({ ref, open }) => (
-                                <img ref={ref} onClick={open} src={Prueba} alt="..." id="bordergeneracion"/>
+                                    <img ref={ref} onClick={open} src={Prueba} alt="..." id="bordergeneracion"/>
                             )}
                         </Item>
                     </Gallery>
