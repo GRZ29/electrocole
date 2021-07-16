@@ -1,0 +1,34 @@
+#bordergeneracion{
+    border-radius: 20%;
+}
+
+#fondo1{
+    text-align: center;
+    color: #fff;
+    position: relative;
+    background-position:center center;
+    background-image: url(/src/componentes/assets/img/graduacion/circulos.svg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+}
+
+#ajusteh2{
+    padding-top: 355px;
+    width: 100%;
+    text-align: center;
+}
+#curvas{
+    position: relative;
+    left: 0;
+    bottom: 0px;
+    width: 100%;
+}
+
+#picos{
+    padding-top: 0;
+    text-align: center;
+    color: #fff;
+    position: relative;
+    width: 100%;
+}

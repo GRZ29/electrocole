@@ -4,6 +4,7 @@ import 'bootstrap';
 import ContenerdorTodos from './componentes/ContenerdorTodos';
 import ContenerdorVideos from './componentes/ContenerdorVideos';
 import { useEffect } from 'react';
+import ContenedorGraduacion from './componentes/ContenedorGraduacion';
 
 function App() {
 
@@ -41,6 +42,7 @@ useEffect(()=>{
       <Switch>
         <Route exact path={"/"} component={ContenerdorTodos}/>
         <Route exact path={"/videos"} component={ContenerdorVideos}/>
+        <Route exact path={"/graduacion"} component={ContenedorGraduacion}/>
       </Switch>
     </Router>
   );
