@@ -42,7 +42,7 @@ useEffect(()=>{
       <Switch>
         <Route exact path={"/"} component={ContenerdorTodos}/>
         <Route exact path={"/videos"} component={ContenerdorVideos}/>
-        <Route exact path={"/graduacion"} component={ContenedorGraduacion}/>
+        <Route exact path={"/generaciones"} component={ContenedorGraduacion}/>
       </Switch>
     </Router>
   );

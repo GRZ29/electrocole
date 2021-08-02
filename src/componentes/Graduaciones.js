@@ -1,9 +1,12 @@
 import React from 'react';
 import Curvas from './assets/img/graduacion/fondo.svg';
 import Picos from './assets/img/graduacion/fondo2.svg';
-import Prueba from './assets/img/team/1.jpg';
-import Prueba2 from './assets/img/team/2.jpg';
-import Prueba3 from './assets/img/team/3.jpg';
+import Prueba from './assets/img/graduacion/IMG_20180822_110531 - copia.jpg';
+import Prueba2 from './assets/img/graduacion/IMG_20190816_122506.jpg';
+import Prueba3 from './assets/img/graduacion/IMG_20191022_073420.jpg';
+import Prueba4 from './assets/img/graduacion/IMG_20191022_113231.jpg';
+import Prueba5 from './assets/img/graduacion/IMG_20200211_093602.jpg';
+import Prueba6 from './assets/img/graduacion/IMG_20200310_093101.jpg';
 import 'photoswipe/dist/photoswipe.css';
 import 'photoswipe/dist/default-skin/default-skin.css';
 import { Gallery, Item } from 'react-photoswipe-gallery';
@@ -25,33 +28,13 @@ const Graduaciones = () => {
                 <div style={{textAlign:"center"}} className="row row-cols-1 row-cols-md-3 g-4">
                     <Gallery> 
                         <Item
-                            original={Prueba2}
-                            thumbnail={Prueba2}
-                            width="724"
-                            height="724"
-                        >
-                            {({ ref, open }) => (
-                                <img ref={ref} onClick={open} src={Prueba2} alt="..." id="bordergeneracion"/>
-                            )}
-                        </Item>
-                        <Item
-                            original={Prueba3}
-                            thumbnail={Prueba3}
-                            width="724"
-                            height="724"
-                        >
-                            {({ ref, open }) => (
-                                <img ref={ref} onClick={open} src={Prueba3} alt="..." id="bordergeneracion" />
-                            )}
-                        </Item>
-                        <Item
                             original={Prueba}
                             thumbnail={Prueba}
                             width="724"
                             height="724"
                         >
                             {({ ref, open }) => (
-                                    <img ref={ref} onClick={open} src={Prueba} alt="..." id="bordergeneracion"/>
+                                <img ref={ref} onClick={open} src={Prueba} alt="..." id="bordergeneracion"/>
                             )}
                         </Item>
                         <Item
@@ -61,7 +44,7 @@ const Graduaciones = () => {
                             height="724"
                         >
                             {({ ref, open }) => (
-                                <img ref={ref} onClick={open} src={Prueba2} alt="..." id="bordergeneracion"/>
+                                <img ref={ref} onClick={open} src={Prueba2} alt="..." id="bordergeneracion" />
                             )}
                         </Item>
                         <Item
@@ -71,17 +54,37 @@ const Graduaciones = () => {
                             height="724"
                         >
                             {({ ref, open }) => (
-                                <img ref={ref} onClick={open} src={Prueba3} alt="..." id="bordergeneracion" />
+                                    <img ref={ref} onClick={open} src={Prueba3} alt="..." id="bordergeneracion"/>
                             )}
                         </Item>
                         <Item
-                            original={Prueba}
-                            thumbnail={Prueba}
+                            original={Prueba4}
+                            thumbnail={Prueba4}
                             width="724"
                             height="724"
                         >
                             {({ ref, open }) => (
-                                    <img ref={ref} onClick={open} src={Prueba} alt="..." id="bordergeneracion"/>
+                                <img ref={ref} onClick={open} src={Prueba4} alt="..." id="bordergeneracion"/>
+                            )}
+                        </Item>
+                        <Item
+                            original={Prueba5}
+                            thumbnail={Prueba5}
+                            width="724"
+                            height="724"
+                        >
+                            {({ ref, open }) => (
+                                <img ref={ref} onClick={open} src={Prueba5} alt="..." id="bordergeneracion" />
+                            )}
+                        </Item>
+                        <Item
+                            original={Prueba6}
+                            thumbnail={Prueba6}
+                            width="724"
+                            height="724"
+                        >
+                            {({ ref, open }) => (
+                                    <img ref={ref} onClick={open} src={Prueba6} alt="..." id="bordergeneracion" />
                             )}
                         </Item>
                     </Gallery>

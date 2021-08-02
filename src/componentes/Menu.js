@@ -23,7 +23,7 @@ const Menu = () => {
                     <ul className="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
                         <Link to="" style={{textDecoration:"none"}}><li className="nav-item"><p className="nav-link"  style={{borderColor:"yellow", borderWidth:"medium"}}>Inicio</p></li></Link>
                         <Link to="/videos" style={{textDecoration:"none"}}><li className="nav-item"><p className="nav-link"  style={{borderColor:"yellow", borderWidth:"medium"}}>Información</p></li></Link>
-                        <Link to="/graduacion" style={{textDecoration:"none"}}><li className="nav-item"><p className="nav-link"  style={{borderColor:"yellow", borderWidth:"medium"}}>Graduación</p></li></Link>
+                        <Link to="/generaciones" style={{textDecoration:"none"}}><li className="nav-item"><p className="nav-link"  style={{borderColor:"yellow", borderWidth:"medium"}}>Generaciones</p></li></Link>
                     </ul>
                 </div>
             </div>
