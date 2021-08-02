@@ -18,7 +18,7 @@ const displayImagenes = () => {
     <div className="container">
       <h2 style={{textAlign:"center"}}>NUESTRAS AREAS</h2><br/><br/>
      <div className="row row-cols-1 row-cols-md-3 g-4" style={{height:"100%"}}>
-       <div className="col"> 
+       <div className="col" data-aos="flip-up"> 
         <Carousel fade  id="columna">
           <Carousel.Item interval={2000}>
             <img
@@ -52,7 +52,7 @@ const displayImagenes = () => {
           </Carousel.Item>
         </Carousel>
       </div>
-      <div className="col" style={{height:"55px"}}>
+      <div className="col" data-aos="flip-up" style={{height:"55px"}}>
         <Carousel fade>
           <Carousel.Item interval={2000}>
             <img
@@ -86,7 +86,7 @@ const displayImagenes = () => {
           </Carousel.Item>
         </Carousel>
       </div>
-      <div  className="col">
+      <div  className="col" data-aos="flip-up">
         <Carousel fade>
           <Carousel.Item interval={2000}>
             <img

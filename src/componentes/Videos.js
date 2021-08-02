@@ -27,7 +27,7 @@ const Videos = () => {
 				<h2 style={{textAlign:"center"}}>CONOCE SOBRE NUESTROS AREAS Y ESTUDIANTES</h2>
 				<br/><br/><br/>
 				<div className="row row-cols-1 row-cols-md-2 g-4">
-				<div className="col" >
+				<div className="col" data-aos="fade-in">
 					<div className="card">
 					<iframe className="card-img-top" width="560" height="515" src="https://www.youtube.com/embed/ILNWBx6gSLA" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 					<div className="card-body">
@@ -35,7 +35,7 @@ const Videos = () => {
 					</div>
 					</div>
 				</div>
-				<div className="col">
+				<div className="col" data-aos="fade-in">
 					<div className="card">
 						<iframe className="card-img-top" width="560" height="515" src="https://www.youtube.com/embed/prE6yrDYjic" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 					<div className="card-body">
@@ -43,7 +43,7 @@ const Videos = () => {
 					</div>
 					</div>
 				</div>
-				<div className="col">
+				<div className="col" data-aos="fade-in"> 
 					<div className="card">
 					<iframe className="card-img-top"  width="560" height="515" src="https://www.youtube.com/embed/r8zrSu1Va1E" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 					<div className="card-body">
@@ -51,7 +51,7 @@ const Videos = () => {
 					</div>
 					</div>
 				</div>
-				<div className="col">
+				<div className="col" data-aos="fade-in">
 					<div className="card">
 					<iframe className="card-img-top"  width="560" height="515" src="https://www.youtube.com/embed/K-7lh8UW7so" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 					<div className="card-body">
