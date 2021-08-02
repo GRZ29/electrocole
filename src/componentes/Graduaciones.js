@@ -20,7 +20,7 @@ const Graduaciones = () => {
     return (
         <div>
             <div id="fondo1" style={{ height: "970px", margin: "0px", padding: "0px", boxSizing: 'border-box' }}>
-                <h2 id="h2Texto2" style={{ paddingTop: "350px", zIndex: 101 }}>Conoce a nuestros graduados</h2>
+                <h2 id="h2Texto2" style={{ paddingTop: "350px", zIndex: 101 }}>Conoce a nuestras generaciones</h2>
                 <img id="monta" src={Curvas} alt='like' style={{ paddingTop: "555px" }} />
                 <h2 id="h2Texto3" style={{ zIndex: 102, marginTop: 555 }}>Te gustaria saber mas sobre nosostros?</h2>
             </div>
