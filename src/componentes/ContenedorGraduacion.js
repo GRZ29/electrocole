@@ -28,7 +28,7 @@ const ContenedorGraduacion = () => {
         d = "M0,96L240,96L480,192L720,224L960,64L1200,160L1440,64L1440,0L1200,0L960,0L720,0L480,0L240,0L0,0Z" > </path></svg >
         <h1 style = {
             { textAlign: "center" }
-        } > GRACIAS POR VISITARNOS </h1>  
+        } > GRACIAS POR VISITARNOS ELECTROVOCA</h1>  
         <svg xmlns = "http://www.w3.org/2000/svg"
         viewBox = "0 0 1440 320" > < path fill = "#000000"
         fillOpacity = "1"
