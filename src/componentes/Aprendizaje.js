@@ -9,7 +9,7 @@ const Acerca = () => {
             <section className="page-section" id="about">
             <div className="container">
                 <div className="text-center">
-                    <h2 className="section-heading text-uppercase">Nivel de aprendizaje</h2>
+                    <h2 className="section-heading text-uppercase">Nivel de aprendizaje </h2>
                     <br/><br/>
                 </div>
                 <ul className="timeline">
