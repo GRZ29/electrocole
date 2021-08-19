@@ -16,7 +16,7 @@ const Portfolio = () => {
             <section className="page-section bg-light" id="portfolio">
             <div className="container">
                 <div className="text-center">
-                    <h2 className="section-heading text-uppercase">Portfolio</h2>
+                    <h2 className="section-heading text-uppercase">Portafolio</h2>
                     <br/><br/>
                 </div>
                 <div className="row">
