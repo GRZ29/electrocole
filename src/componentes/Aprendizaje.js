@@ -14,7 +14,7 @@ const Acerca = () => {
                 </div>
                 <ul className="timeline">
                     <li>
-                        <div className="timeline-image"style={{}}><h4>Cuarto <br/>año</h4></div>
+                 v         <div className="timeline-image"style={{}}><h4>Cuarto <br/>año</h4></div>
                         <div className="timeline-panel">
                             <div className="timeline-heading">
                                 <h4 className="subheading">Programa de Décimo</h4>

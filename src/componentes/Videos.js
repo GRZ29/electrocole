@@ -53,7 +53,7 @@ const Videos = () => {
 				</div>
 				<div className="col" data-aos="fade-in">
 					<div className="card">
-					<iframe className="card-img-top"  width="560" height="515" src="https://www.youtube.com/embed/K-7lh8UW7so" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+					<iframe className="card-img-top"  width="560" height="515" src="https://www.youtube.com/embed/c8cn90vIrPQ" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 					<div className="card-body">
 						<h5 className="card-title">Electrónica Industrial Vocacional Monseñor Sanabria</h5>
 					</div>
