@@ -113,7 +113,6 @@ const Graduaciones = () => {
                                     <img ref={ref} onClick={open} src={Prueba6} alt="..." id="bordergeneracion" data-aos="zoom-in-right"hidden/>
                             )}
                         </Item>
-
                         <Item
                             original={Prueba8}
                             thumbnail={Prueba8}
@@ -124,7 +123,6 @@ const Graduaciones = () => {
                                     <img ref={ref} onClick={open} src={Prueba8} alt="..." id="bordergeneracion" data-aos="zoom-in-right"hidden/>
                             )}
                         </Item>
-
                         <Item
                             original={Prueba9}
                             thumbnail={Prueba9}
@@ -135,7 +133,6 @@ const Graduaciones = () => {
                                     <img ref={ref} onClick={open} src={Prueba9} alt="..." id="bordergeneracion" data-aos="zoom-in-right" hidden/>
                             )}
                         </Item>
-
                         <Item
                             original={Prueba10}
                             thumbnail={Prueba10}
@@ -146,7 +143,6 @@ const Graduaciones = () => {
                                     <img ref={ref} onClick={open} src={Prueba10} alt="..." id="bordergeneracion" data-aos="zoom-in-right" hidden/>
                             )}
                         </Item>
-
                         <Item
                             original={Prueba11}
                             thumbnail={Prueba11}
@@ -157,7 +153,6 @@ const Graduaciones = () => {
                                     <img ref={ref} onClick={open} src={Prueba11} alt="..." id="bordergeneracion" data-aos="zoom-in-right" hidden/>
                             )}
                         </Item>
-
                         <Item
                             original={Prueba12}
                             thumbnail={Prueba12}
@@ -168,7 +163,6 @@ const Graduaciones = () => {
                                     <img ref={ref} onClick={open} src={Prueba12} alt="..." id="bordergeneracion" data-aos="zoom-in-right" hidden/>
                             )}
                         </Item>
-
                         <Item
                             original={Prueba13}
                             thumbnail={Prueba13}
@@ -213,6 +207,17 @@ const Graduaciones = () => {
                             )}
                         </Item>
 
+                        <Item
+                            original={Prueba17}
+                            thumbnail={Prueba17}
+                            width="724"
+                            height="724"
+                        >
+                            {({ ref, open }) => (
+                                    <img ref={ref} onClick={open} src={Prueba17} alt="..." id="bordergeneracion" data-aos="zoom-in-right"hidden/>
+                            )}
+                        </Item>
+                       
                         <Item
                             original={Prueba18}
                             thumbnail={Prueba18}
