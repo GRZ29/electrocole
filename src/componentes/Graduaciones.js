@@ -2,7 +2,6 @@ import React from 'react';
 import Curvas from './assets/img/graduacion/fondo.svg';
 import Picos from './assets/img/graduacion/fondo2.svg';
 import Prueba from './assets/img/graduacion/IMG_20180822_110531 - copia.jpg';
-import Prueba3 from './assets/img/graduacion/IMG_20191022_073420.jpg';
 import Prueba5 from './assets/img/graduacion/IMG_20200211_093602.jpg';
 import Prueba6 from './assets/img/graduacion/IMG_20200310_093101.jpg';
 import Prueba7 from './assets/img/graduacion/b6de7421-01ce-49c6-9a08-dbdb3411612d.jpg';
@@ -52,16 +51,7 @@ const Graduaciones = () => {
                             )}
                         </Item>
                        
-                        <Item
-                            original={Prueba3}
-                            thumbnail={Prueba3}
-                            width="724"
-                            height="724"
-                        >
-                            {({ ref, open }) => (
-                                    <img ref={ref} onClick={open} src={Prueba3} alt="..." id="bordergeneracion" data-aos="zoom-in-right"/>
-                            )}
-                        </Item>
+                    
                         
                         <Item
                             original={Prueba5}
