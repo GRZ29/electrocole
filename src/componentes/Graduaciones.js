@@ -16,7 +16,7 @@ import Prueba14 from './assets/img/graduacion/4.jpg';
 import Prueba15 from './assets/img/graduacion/5.jpg';
 import Prueba16 from './assets/img/graduacion/8.jpeg';
 import Prueba17 from './assets/img/graduacion/9.jpeg';
-import Prueba18 from './assets/img/graduacion/WhatsApp Image 2021-08-19 at 11.17.49 AM.jpeg';
+import Prueba18 from './assets/img/graduacion/1010.jpeg';
 import 'photoswipe/dist/photoswipe.css';
 import 'photoswipe/dist/default-skin/default-skin.css';
 import { Gallery, Item } from 'react-photoswipe-gallery';
