@@ -2,9 +2,7 @@ import React from 'react';
 import Curvas from './assets/img/graduacion/fondo.svg';
 import Picos from './assets/img/graduacion/fondo2.svg';
 import Prueba from './assets/img/graduacion/IMG_20180822_110531 - copia.jpg';
-import Prueba2 from './assets/img/graduacion/IMG_20190816_122506.jpg';
 import Prueba3 from './assets/img/graduacion/IMG_20191022_073420.jpg';
-import Prueba4 from './assets/img/graduacion/IMG_20191022_113231.jpg';
 import Prueba5 from './assets/img/graduacion/IMG_20200211_093602.jpg';
 import Prueba6 from './assets/img/graduacion/IMG_20200310_093101.jpg';
 import Prueba7 from './assets/img/graduacion/b6de7421-01ce-49c6-9a08-dbdb3411612d.jpg';
@@ -16,8 +14,8 @@ import Prueba12 from './assets/img/graduacion/2.jpg';
 import Prueba13 from './assets/img/graduacion/3.jpg';
 import Prueba14 from './assets/img/graduacion/4.jpg';
 import Prueba15 from './assets/img/graduacion/5.jpg';
-import Prueba16 from './assets/img/graduacion/6.jpg';
-import Prueba17 from './assets/img/graduacion/7.jpg';
+import Prueba16 from './assets/img/graduacion/8.jpeg';
+import Prueba17 from './assets/img/graduacion/9.jpeg';
 import Prueba18 from './assets/img/graduacion/WhatsApp Image 2021-08-19 at 11.17.49 AM.jpeg';
 import 'photoswipe/dist/photoswipe.css';
 import 'photoswipe/dist/default-skin/default-skin.css';
@@ -50,19 +48,10 @@ const Graduaciones = () => {
                             height="724"
                         >
                             {({ ref, open }) => (
-                                <img ref={ref} onClick={open} src={Prueba} alt="..." id="bordergeneracion" data-aos="zoom-in-right"/>
+                                <img ref={ref} onClick={open} src={Prueba} alt="..." id="bordergeneracion" data-aos="zoom-in-right"hidden/>
                             )}
                         </Item>
-                        <Item
-                            original={Prueba2}
-                            thumbnail={Prueba2}
-                            width="724"
-                            height="724"
-                        >
-                            {({ ref, open }) => (
-                                <img ref={ref} onClick={open} src={Prueba2} alt="..." id="bordergeneracion" data-aos="zoom-in-right"/>
-                            )}
-                        </Item>
+                       
                         <Item
                             original={Prueba3}
                             thumbnail={Prueba3}
@@ -73,16 +62,7 @@ const Graduaciones = () => {
                                     <img ref={ref} onClick={open} src={Prueba3} alt="..." id="bordergeneracion" data-aos="zoom-in-right"/>
                             )}
                         </Item>
-                        <Item
-                            original={Prueba4}
-                            thumbnail={Prueba4}
-                            width="724"
-                            height="724"
-                        >
-                            {({ ref, open }) => (
-                                <img ref={ref} onClick={open} src={Prueba4} alt="..." id="bordergeneracion" data-aos="zoom-in-right"/>
-                            )}
-                        </Item>
+                        
                         <Item
                             original={Prueba5}
                             thumbnail={Prueba5}
@@ -100,7 +80,7 @@ const Graduaciones = () => {
                             height="724"
                         >
                             {({ ref, open }) => (
-                                    <img ref={ref} onClick={open} src={Prueba7} alt="..." id="bordergeneracion" data-aos="zoom-in-right"hidden/>
+                                    <img ref={ref} onClick={open} src={Prueba7} alt="..." id="bordergeneracion" data-aos="zoom-in-right"/>
                             )}
                         </Item>
                         <Item
@@ -140,7 +120,7 @@ const Graduaciones = () => {
                             height="724"
                         >
                             {({ ref, open }) => (
-                                    <img ref={ref} onClick={open} src={Prueba10} alt="..." id="bordergeneracion" data-aos="zoom-in-right" hidden/>
+                                    <img ref={ref} onClick={open} src={Prueba10} alt="..." id="bordergeneracion" data-aos="zoom-in-right"/>
                             )}
                         </Item>
                         <Item
@@ -203,7 +183,7 @@ const Graduaciones = () => {
                             height="724"
                         >
                             {({ ref, open }) => (
-                                    <img ref={ref} onClick={open} src={Prueba16} alt="..." id="bordergeneracion" data-aos="zoom-in-right" hidden/>
+                                    <img ref={ref} onClick={open} src={Prueba16} alt="..." id="bordergeneracion" data-aos="zoom-in-right" />
                             )}
                         </Item>
 
@@ -214,7 +194,7 @@ const Graduaciones = () => {
                             height="724"
                         >
                             {({ ref, open }) => (
-                                    <img ref={ref} onClick={open} src={Prueba17} alt="..." id="bordergeneracion" data-aos="zoom-in-right"hidden/>
+                                    <img ref={ref} onClick={open} src={Prueba17} alt="..." id="bordergeneracion" data-aos="zoom-in-right"/>
                             )}
                         </Item>
                        
