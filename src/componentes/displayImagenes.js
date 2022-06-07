@@ -3,9 +3,9 @@ import Prueba from './assets/img/instalaciones/IMG_20190614_104228.jpg';
 import Prueba2 from './assets/img/instalaciones/IMG_20190614_105918.jpg';
 import Prueba3 from './assets/img/instalaciones/IMG_20191128_160613.jpg';
 
-import Prueba4 from './assets/img/instalaciones/IMG_20191128_160616.jpg';
-import Prueba5 from './assets/img/instalaciones/IMG_20191129_130208.jpg';
-import Prueba6 from './assets/img/instalaciones/WhatsApp Image 2020-03-10 at 8.53.21 AM (1).jpeg';
+import Prueba4 from './assets/img/instalaciones/aula_cholo.jpeg';
+import Prueba5 from './assets/img/instalaciones/aula_arce.jpeg';
+import Prueba6 from './assets/img/instalaciones/aula_danilo.jpeg';
 
 import Prueba7 from './assets/img/instalaciones/WhatsApp Image 2020-03-10 at 8.53.21 AM (4).jpeg';
 import Prueba8 from './assets/img/instalaciones/WhatsApp Image 2020-03-10 at 8.53.21 AM.jpeg';

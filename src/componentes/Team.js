@@ -1,6 +1,7 @@
 import React from 'react';
 import team1 from './assets/img/team/Jose Antonio Arce.png';
 import team2 from './assets/img/team/Danilo Rojas Chanto (1) (1).png';
+import team3 from './assets/img/team/Alejandro_Rojas.jpeg';
 
 const Team = () => {
     return (
@@ -29,6 +30,15 @@ const Team = () => {
                             <h4>Danilo Rojas Chanto</h4>
                             <p className="text-muted">Profesor de Electrónica Industrial</p>
                             <a className="btn btn-dark btn-social mx-2" href="https://www.facebook.com/rojaschanto"><i className="fab fa-facebook-f"></i></a>
+                        </div>
+                    </div>
+
+                    <div className="col-lg-4">
+                        <div className="team-member">
+                            <img className="mx-auto rounded-circle" src={team3} alt="..." style={{width:"300px", height:"300px"}}/>
+                            <h4>Jose Alejandro Rojas Lopez</h4>
+                            <p className="text-muted">Profesor de Electrónica Industrial</p>
+                            <a className="btn btn-dark btn-social mx-2" href="https://www.facebook.com/alejandro.rojas.98284566"><i className="fab fa-facebook-f"></i></a>
                         </div>
                     </div>
                 </div>
