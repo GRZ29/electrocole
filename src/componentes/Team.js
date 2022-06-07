@@ -1,7 +1,7 @@
 import React from 'react';
 import team1 from './assets/img/team/Jose Antonio Arce.png';
 import team2 from './assets/img/team/Danilo Rojas Chanto (1) (1).png';
-import team3 from './assets/img/team/Alejandro_Rojas.jpeg';
+import team3 from './assets/img/team/Alejadro_Rojas.jpeg';
 
 const Team = () => {
     return (
