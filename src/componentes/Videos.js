@@ -31,7 +31,7 @@ const Videos = () => {
 					<div className="card">
 					<iframe className="card-img-top" width="560" height="515" src="https://www.youtube.com/embed/ILNWBx6gSLA" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 					<div className="card-body">
-						<h5 className="card-title">Electrónica Industrial Vocacional Monseñor Sanabria</h5>
+						<h5 className="card-title">Experiencia de un Egresado de Electrónica Industrial del COVOMOSA</h5>
 					</div>
 					</div>
 				</div>
@@ -39,7 +39,7 @@ const Videos = () => {
 					<div className="card">
 						<iframe className="card-img-top" width="560" height="515" src="https://www.youtube.com/embed/prE6yrDYjic" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 					<div className="card-body">
-						<h5 className="card-title">Electrónica Industrial Vocacional Monseñor Sanabria</h5>
+						<h5 className="card-title">Donde podés localizar a Electrónica Industrial en el COVOMOSA</h5>
 					</div>
 					</div>
 				</div>
@@ -47,7 +47,7 @@ const Videos = () => {
 					<div className="card">
 					<iframe className="card-img-top"  width="560" height="515" src="https://www.youtube.com/embed/0IyXsesLh_k" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 					<div className="card-body">
-						<h5 className="card-title">Electrónica Industrial Vocacional Monseñor Sanabria</h5>
+						<h5 className="card-title">¿Qué hacemos en nuestra especialidad?!!</h5>
 					</div>
 					</div>
 				</div>
@@ -55,7 +55,7 @@ const Videos = () => {
 					<div className="card">
 					<iframe className="card-img-top"  width="560" height="515" src="https://www.youtube.com/embed/c8cn90vIrPQ" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 					<div className="card-body">
-						<h5 className="card-title">Electrónica Industrial Vocacional Monseñor Sanabria</h5>
+						<h5 className="card-title">Campo laboral de los egresados de Electrónica Industrial</h5>
 					</div>
 					</div>
 				</div>
